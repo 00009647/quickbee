@@ -351,12 +351,14 @@ class MainContent extends StatelessWidget {
                       ),
                     ),
                     Expanded(
-                      child: Text('View all ',
-                          style: TextStyle(
-                            fontSize: 18.0,
-                            color: Color(0xFF2BD093),
-                          ),
-                          textAlign: TextAlign.end),
+                      child: Text(
+                        'View all ',
+                        style: TextStyle(
+                          fontSize: 18.0,
+                          color: Color(0xFF2BD093),
+                        ),
+                        textAlign: TextAlign.end,
+                      ),
                     ),
                   ],
                 ),

@@ -1,6 +1,6 @@
 import 'package:ex1/widgets/stacked_icons.dart';
 import 'package:flutter/material.dart';
-import 'home.dart';
+import 'home/home_page.dart';
 
 class LoginPage extends StatelessWidget {
   @override
